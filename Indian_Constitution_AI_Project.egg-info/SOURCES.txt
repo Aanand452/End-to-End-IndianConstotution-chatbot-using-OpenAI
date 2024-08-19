@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 Indian_Constitution_AI_Project.egg-info/PKG-INFO
 Indian_Constitution_AI_Project.egg-info/SOURCES.txt
