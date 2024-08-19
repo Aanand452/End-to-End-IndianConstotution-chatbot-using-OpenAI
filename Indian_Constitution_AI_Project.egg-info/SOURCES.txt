@@ -1,0 +1,8 @@
+setup.py
+Indian_Constitution_AI_Project.egg-info/PKG-INFO
+Indian_Constitution_AI_Project.egg-info/SOURCES.txt
+Indian_Constitution_AI_Project.egg-info/dependency_links.txt
+Indian_Constitution_AI_Project.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
