@@ -1,2 +1,2 @@
-# End-to-End-IndianConstotution-chatbot-using-OpenAI
-building a chatbot indian consitution using openai and langchain
+# End-to-End-IndianConstitution-chatbot-using-OpenAI
+building a chatbot Indian constitution using Openai and langchain
