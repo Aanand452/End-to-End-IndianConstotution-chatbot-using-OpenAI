@@ -78,3 +78,5 @@ if __name__ == '__main__':
     app.run(debug=True)
                
 
+#to start the project 
+# flask run --port 5001
